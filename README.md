@@ -9,7 +9,7 @@ Transfer learning project comparing VGG19, YOLOv5-cls, and EfficientNetV2B0 on t
 | Model            | Test Accuracy | Parameters | Framework        |
 | ---------------- | ------------- | ---------- | ---------------- |
 | VGG19            | 92.38%        | 20.0M      | TensorFlow/Keras |
-| YOLOv5-cls       | -             | ~7M        | PyTorch          |
+| YOLOv5-cls       | 90.82%        | ~7M        | PyTorch          |
 | EfficientNetV2B0 | **93.95%**    | 6.1M       | TensorFlow/Keras |
 
 **Best model:** EfficientNetV2B0 achieves highest accuracy with 3.3x fewer parameters than VGG19.
